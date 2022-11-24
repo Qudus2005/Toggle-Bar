@@ -199,17 +199,3 @@ color: white;
     align-items: center;
 }
 }
-@media screen and (min-width:1024px) and (max-width:1201px) {
-    .footer-flex{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        gap: 2rem;
-    }
-
-    .flex{
-    display: flex;
-    flex-direction: row;
-    gap: 2rem;
-}
-}
